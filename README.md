@@ -20,3 +20,4 @@ PHOTOS OF CLINIC AND DOCTORS
 5. Official email address  : @mayurdentalcare@gmail.com
 7. Clinic logo
 10. Any special offers, certifications, achievements, or treatment guarantees you want displayed
+# mayir_dental_clinic
