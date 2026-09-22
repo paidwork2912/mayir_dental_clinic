@@ -19,7 +19,7 @@ import teethWhiteningPhoto from "../assets/services_photos/Teeth Whitening  Blea
 import toothReplacementPhoto from "../assets/services_photos/Tooth Replacement - Implant.avif";
 import aestheticDentistryPhoto from "../assets/services_photos/aesthetic dentistry.webp";
 import pediatricPreventionPhoto from "../assets/services_photos/pedriative pevention.png";
-import wisdomToothPhoto from "../assets/services_photos/Wisdom Tooth Surgical Extraction.avif";
+import wisdomToothPhoto from "../assets/services_photos/Wisdom Tooth Surgical Extraction.png";
 
 // Client-editable content for the gallery, doctors, and reviews.
 export const seo = {
