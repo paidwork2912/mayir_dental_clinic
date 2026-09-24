@@ -10,7 +10,7 @@ import doctorsSeat from "../assets/clinic img/doctorsseat.jpeg";
 import shefaliJainPhoto from "../assets/doctors images/Dr.Shefali Jain.png";
 import pankajJainPhoto from "../assets/doctors images/Dr.Pankaj Jain.png";
 import heenaKhanPhoto from "../assets/doctors images/Dr. Heena Khan.png";
-import directCompositeVeneersPhoto from "../assets/services_photos/Direct Composite Veneers.avif";
+import directCompositeVeneersPhoto from "../assets/services_photos/Direct Composite Veneers.webp";
 import fullMouthImplantPhoto from "../assets/services_photos/Full-Mouth Implant Fixed Prosthesis.avif";
 import fracturedToothPhoto from "../assets/services_photos/Fractured Tooth Restoration with Root Canal and Emax Crown.avif";
 import emaxEndoCrownPhoto from "../assets/services_photos/Emax Endo Crown.webp";
