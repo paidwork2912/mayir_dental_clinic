@@ -1,9 +1,11 @@
+import waitingLobby from "../assets/clinic img/waitinglobby.jpeg";
 import reception2 from "../assets/clinic img/reception2.jpeg";
 import reception from "../assets/clinic img/reception.jpeg";
 import interior4 from "../assets/clinic img/interior4.jpeg";
 import interior3 from "../assets/clinic img/interior3.jpeg";
 import interior2 from "../assets/clinic img/interior2.jpeg";
 import interior from "../assets/clinic img/interior.jpeg";
+import entrance from "../assets/clinic img/enterence.jpeg";
 import doctorsSeat from "../assets/clinic img/doctorsseat.jpeg";
 import shefaliJainPhoto from "../assets/doctors images/Dr.Shefali Jain.png";
 import pankajJainPhoto from "../assets/doctors images/Dr.Pankaj Jain.png";
@@ -16,8 +18,7 @@ import toothReplacementPhoto from "../assets/services_photos/Tooth Replacement -
 import aestheticDentistryPhoto from "../assets/services_photos/aesthetic dentistry.webp";
 import pediatricPreventionPhoto from "../assets/services_photos/pedriative pevention.png";
 import wisdomToothPhoto from "../assets/services_photos/Wisdom Tooth Surgical Extraction.png";
-import orthodontictreatment from "../assets/services_photos/Direct Composite Veneers.webp";
-
+import orthodontictreatment from "../assets/services_photos/Direct Composite Veneers.png";
 
 // Client-editable content for the gallery, doctors, and reviews.
 export const seo = {
@@ -47,11 +48,16 @@ export const seo = {
 export const galleryPhotos = [
   { src: entrance, title: "Find us with ease", alt: "Mayur Dental Care clinic entrance sign" },
   { src: reception, title: "Reception and consultation area", alt: "Reception and consultation area at Mayur Dental Care" },
+  { src: waitingLobby, title: "A welcoming waiting lobby", alt: "Bright waiting lobby at Mayur Dental Care" },
   { src: doctorsSeat, title: "Carefully equipped for every visit", alt: "Dental chair and equipment at Mayur Dental Care" },
   { src: interior, title: "Advanced dental equipment", alt: "Dental equipment in a treatment room at Mayur Dental Care" },
+  { src: reception2, title: "Our clinic entrance", alt: "Mayur Dental Care reception entrance" },
   { src: interior4, title: "Modern treatment room", alt: "Modern dental treatment room at Mayur Dental Care" },
   { src: interior3, title: "Comfortable dental operatory", alt: "Comfortable dental operatory at Mayur Dental Care" },
-];export const services = [
+  { src: interior2, title: "Bright treatment suite", alt: "Bright dental treatment suite at Mayur Dental Care" },
+];
+
+export const services = [
   {
     title: "Full-Mouth Implant Fixed Prosthesis",
     description: "A carefully planned fixed solution that helps restore comfort, function, and confidence when many teeth are missing.",
