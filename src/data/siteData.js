@@ -18,6 +18,7 @@ import pediatricPreventionPhoto from "../assets/services_photos/pedriative peven
 import wisdomToothPhoto from "../assets/services_photos/Wisdom Tooth Surgical Extraction.png";
 import orthodontictreatment from "../assets/services_photos/Direct Composite Veneers.webp";
 
+
 // Client-editable content for the gallery, doctors, and reviews.
 export const seo = {
   title: "Mayur Dental Care | Trusted Dentist in Vikhroli East, Mumbai",
@@ -50,8 +51,7 @@ export const galleryPhotos = [
   { src: interior, title: "Advanced dental equipment", alt: "Dental equipment in a treatment room at Mayur Dental Care" },
   { src: interior4, title: "Modern treatment room", alt: "Modern dental treatment room at Mayur Dental Care" },
   { src: interior3, title: "Comfortable dental operatory", alt: "Comfortable dental operatory at Mayur Dental Care" },
-];
-export const services = [
+];export const services = [
   {
     title: "Full-Mouth Implant Fixed Prosthesis",
     description: "A carefully planned fixed solution that helps restore comfort, function, and confidence when many teeth are missing.",
@@ -99,6 +99,7 @@ export const services = [
     image: wisdomToothPhoto,
   },
 ];
+
 export const heroPhotos = [
   { src: entrance, alt: "Mayur Dental Care clinic entrance sign" },
   { src: reception, alt: "Reception and consultation area at Mayur Dental Care" },
