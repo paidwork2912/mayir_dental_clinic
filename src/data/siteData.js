@@ -171,19 +171,19 @@ export const doctors = [
 export const reviews = [
   ["Madhavi Varma", "1 month ago", "Very good clinic. Dr. Pankaj Jain is a well versed, thorough and skilled. He gave proper time to hear my concerns and walked me through the procedures in simple language. It comforted me. Very satisfied with the work, interaction and experience.", "MV"],
 
-  ["Sathakathullah Sheikh", "2 Month ago", "Best dental clinic in vikhroli, super hygiene and very courteous doctors got my multiple root canal and caps done thnxs Dr Mayur", "AK"],
+  ["Sathakathullah Sheikh", "2 Month ago", "Best dental clinic in vikhroli, super hygiene and very courteous doctors got my multiple root canal and caps done thnxs Dr Mayur", "SS"],
 
-  ["Neeta Jain", "3 months ago", "Got my implant done and got fixed teeth at the age of 72,didnt expected fixed teeth fixation will be so ease thanks Dr shefali and Dr pankaj for the excellent treatment must visit mayur dental care", "KI"],
-
-
-  ["Prachi Sawant", "2 months ago", "For my dental treatment I come from Kalwa. Because Dr Jain is very skillful and empathetic.", "SP"],
+  ["Neeta Jain", "3 months ago", "Got my implant done and got fixed teeth at the age of 72,didnt expected fixed teeth fixation will be so ease thanks Dr shefali and Dr pankaj for the excellent treatment must visit mayur dental care", "NJ"],
 
 
-  ["Jayshree Wadkar", "3 months ago", "I had a great experience at Mayur Dental Care.I had gone there for teeth filling and they made sure that the procedure was done smoothly and without any issues.I would definitely recommend Mayur Dental care for any dental issues.Thank you!", "VJ"],
+  ["Prachi Sawant", "2 months ago", "For my dental treatment I come from Kalwa. Because Dr Jain is very skillful and empathetic.", "PS"],
 
-  ["Damini Dorugade", "4 months ago", "Great staff and beautiful office! I. I love this dentist and staff. I'm so comfortable when I'm there. They are all so friendly and you feel you are a priority to them they are very efficient Highly recommend! Thank you Dr.pankaj and their staff☺️", "ND"],
 
-  ["Sunidhi Prakhash", "3 months ago", "Had a very good experience here. The dentist was patient and explained the entire extraction and filling process clearly, which made me feel comfortable. Would recommend visiting.", "AR"],
+  ["Jayshree Wadkar", "3 months ago", "I had a great experience at Mayur Dental Care.I had gone there for teeth filling and they made sure that the procedure was done smoothly and without any issues.I would definitely recommend Mayur Dental care for any dental issues.Thank you!", "JW"],
 
-  ["Sumita Das", "7 months ago", "II've recently done my root canal treatment done here . Absolutely painless and very comfortable experience. Doctor Pankaj Jain explained everything clearly and treatment was done with good care . Highly recommended Mayur Dental Care.", "PN"],
+  ["Damini Dorugade", "4 months ago", "Great staff and beautiful office! I. I love this dentist and staff. I'm so comfortable when I'm there. They are all so friendly and you feel you are a priority to them they are very efficient Highly recommend! Thank you Dr.pankaj and their staff☺️", "DD"],
+
+  ["Sunidhi Prakhash", "3 months ago", "Had a very good experience here. The dentist was patient and explained the entire extraction and filling process clearly, which made me feel comfortable. Would recommend visiting.", "SP"],
+
+  ["Sumita Das", "7 months ago", "II've recently done my root canal treatment done here . Absolutely painless and very comfortable experience. Doctor Pankaj Jain explained everything clearly and treatment was done with good care . Highly recommended Mayur Dental Care.", "SD"],
 ];
