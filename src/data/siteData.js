@@ -51,7 +51,6 @@ export const galleryPhotos = [
   { src: interior4, title: "Modern treatment room", alt: "Modern dental treatment room at Mayur Dental Care" },
   { src: interior3, title: "Comfortable dental operatory", alt: "Comfortable dental operatory at Mayur Dental Care" },
 ];
-
 export const services = [
   {
     title: "Full-Mouth Implant Fixed Prosthesis",
@@ -100,7 +99,6 @@ export const services = [
     image: wisdomToothPhoto,
   },
 ];
-
 export const heroPhotos = [
   { src: entrance, alt: "Mayur Dental Care clinic entrance sign" },
   { src: reception, alt: "Reception and consultation area at Mayur Dental Care" },
