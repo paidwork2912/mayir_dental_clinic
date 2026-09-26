@@ -16,7 +16,7 @@ import toothReplacementPhoto from "../assets/services_photos/Tooth Replacement -
 import aestheticDentistryPhoto from "../assets/services_photos/aesthetic dentistry.webp";
 import pediatricPreventionPhoto from "../assets/services_photos/pedriative pevention.png";
 import wisdomToothPhoto from "../assets/services_photos/Wisdom Tooth Surgical Extraction.png";
-import orthodontictreatment from "../assets/services_photos/Direct Composite Veneers.png";
+import orthodontictreatment from "../assets/services_photos/Direct Composite Veneers.webp";
 
 // Client-editable content for the gallery, doctors, and reviews.
 export const seo = {
