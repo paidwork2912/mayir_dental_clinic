@@ -48,13 +48,10 @@ export const seo = {
 export const galleryPhotos = [
   { src: entrance, title: "Find us with ease", alt: "Mayur Dental Care clinic entrance sign" },
   { src: reception, title: "Reception and consultation area", alt: "Reception and consultation area at Mayur Dental Care" },
-  { src: waitingLobby, title: "A welcoming waiting lobby", alt: "Bright waiting lobby at Mayur Dental Care" },
   { src: doctorsSeat, title: "Carefully equipped for every visit", alt: "Dental chair and equipment at Mayur Dental Care" },
   { src: interior, title: "Advanced dental equipment", alt: "Dental equipment in a treatment room at Mayur Dental Care" },
-  { src: reception2, title: "Our clinic entrance", alt: "Mayur Dental Care reception entrance" },
   { src: interior4, title: "Modern treatment room", alt: "Modern dental treatment room at Mayur Dental Care" },
   { src: interior3, title: "Comfortable dental operatory", alt: "Comfortable dental operatory at Mayur Dental Care" },
-  { src: interior2, title: "Bright treatment suite", alt: "Bright dental treatment suite at Mayur Dental Care" },
 ];
 
 export const services = [
